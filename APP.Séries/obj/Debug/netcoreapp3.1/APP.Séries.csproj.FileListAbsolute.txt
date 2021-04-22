@@ -1,0 +1,13 @@
+C:\Users\Igor\projetos\APP.Séries\obj\Debug\netcoreapp3.1\APP.Séries.csprojAssemblyReference.cache
+C:\Users\Igor\projetos\APP.Séries\obj\Debug\netcoreapp3.1\APP.Séries.AssemblyInfoInputs.cache
+C:\Users\Igor\projetos\APP.Séries\obj\Debug\netcoreapp3.1\APP.Séries.AssemblyInfo.cs
+C:\Users\Igor\projetos\APP.Séries\obj\Debug\netcoreapp3.1\APP.Séries.csproj.CoreCompileInputs.cache
+C:\Users\Igor\projetos\APP.Séries\bin\Debug\netcoreapp3.1\APP.Séries.exe
+C:\Users\Igor\projetos\APP.Séries\bin\Debug\netcoreapp3.1\APP.Séries.deps.json
+C:\Users\Igor\projetos\APP.Séries\bin\Debug\netcoreapp3.1\APP.Séries.runtimeconfig.json
+C:\Users\Igor\projetos\APP.Séries\bin\Debug\netcoreapp3.1\APP.Séries.runtimeconfig.dev.json
+C:\Users\Igor\projetos\APP.Séries\bin\Debug\netcoreapp3.1\APP.Séries.dll
+C:\Users\Igor\projetos\APP.Séries\bin\Debug\netcoreapp3.1\APP.Séries.pdb
+C:\Users\Igor\projetos\APP.Séries\obj\Debug\netcoreapp3.1\APP.Séries.dll
+C:\Users\Igor\projetos\APP.Séries\obj\Debug\netcoreapp3.1\APP.Séries.pdb
+C:\Users\Igor\projetos\APP.Séries\obj\Debug\netcoreapp3.1\APP.Séries.genruntimeconfig.cache
